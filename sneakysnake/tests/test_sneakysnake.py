@@ -8,8 +8,13 @@ import sys
 import pytest
 
 import sneakysnake
+from sneakysnake.game_loop import Button
 
 
 def test_sneakysnake_imported():
     """Sample test, will always pass so long as import statement worked."""
     assert "sneakysnake" in sys.modules
+
+def test_button_hover():
+    """tests if class Buttom has a method hover"""
+    assert hasattr(Button, 'hover') == True
