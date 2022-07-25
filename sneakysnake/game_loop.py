@@ -372,6 +372,6 @@ def game_loop():
         # Refresh rate
         fps_controller.tick(difficulty)
 
-if __name__ == '__main__':
+def main():
     pygame.init()
     game_intro()
