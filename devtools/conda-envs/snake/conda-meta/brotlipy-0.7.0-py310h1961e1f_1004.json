@@ -1,0 +1,158 @@
+{
+  "build": "py310h1961e1f_1004",
+  "build_number": 1004,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.0.0",
+    "python >=3.10,<3.11.0a0",
+    "python_abi 3.10.* *_cp310"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/brotlipy-0.7.0-py310h1961e1f_1004",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/brotli/__init__.py",
+    "lib/python3.10/site-packages/brotli/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/brotli/__pycache__/brotli.cpython-310.pyc",
+    "lib/python3.10/site-packages/brotli/__pycache__/build.cpython-310.pyc",
+    "lib/python3.10/site-packages/brotli/_brotli.abi3.so",
+    "lib/python3.10/site-packages/brotli/brotli.py",
+    "lib/python3.10/site-packages/brotli/build.py",
+    "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/LICENSE",
+    "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/METADATA",
+    "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/RECORD",
+    "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/WHEEL",
+    "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/top_level.txt"
+  ],
+  "fn": "brotlipy-0.7.0-py310h1961e1f_1004.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/brotlipy-0.7.0-py310h1961e1f_1004",
+    "type": 1
+  },
+  "md5": "e84bd2f66966aa51356dfe14ef887e42",
+  "name": "brotlipy",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/brotlipy-0.7.0-py310h1961e1f_1004.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.10/site-packages/brotli/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7312e8658449f917e0337303556f6bbff7745baa35dc8ff620d337b11cbf6300",
+        "sha256_in_prefix": "7312e8658449f917e0337303556f6bbff7745baa35dc8ff620d337b11cbf6300",
+        "size_in_bytes": 201
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotli/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "8f439c1d7ed5759511e3a496149b58004071300d219be900242d7d2c645c7c33",
+        "sha256_in_prefix": "8f439c1d7ed5759511e3a496149b58004071300d219be900242d7d2c645c7c33",
+        "size_in_bytes": 390
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotli/__pycache__/brotli.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d57753d9f2b37ef27cb0cd90887dd567f90a40bc08564565f0e059bb651815a5",
+        "sha256_in_prefix": "d57753d9f2b37ef27cb0cd90887dd567f90a40bc08564565f0e059bb651815a5",
+        "size_in_bytes": 12214
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotli/__pycache__/build.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "47b988c409df16b20f0022cdaba77453a45e656df2520f5127e38bf0d9f05831",
+        "sha256_in_prefix": "47b988c409df16b20f0022cdaba77453a45e656df2520f5127e38bf0d9f05831",
+        "size_in_bytes": 10521
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotli/_brotli.abi3.so",
+        "path_type": "hardlink",
+        "sha256": "c9482b6ff355282a386d9ec71fc10810e6713c9af9c518dbfe06b9226916b53e",
+        "sha256_in_prefix": "c9482b6ff355282a386d9ec71fc10810e6713c9af9c518dbfe06b9226916b53e",
+        "size_in_bytes": 818256
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotli/brotli.py",
+        "path_type": "hardlink",
+        "sha256": "1eda615477a8d7626b9890d3e84c913e0d4e3a7b205e98101c246789a54c383e",
+        "sha256_in_prefix": "1eda615477a8d7626b9890d3e84c913e0d4e3a7b205e98101c246789a54c383e",
+        "size_in_bytes": 15861
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotli/build.py",
+        "path_type": "hardlink",
+        "sha256": "f13fd5a418736b062e679aa59d766aa828fd1953a898f001c218a786bec841cc",
+        "sha256_in_prefix": "f13fd5a418736b062e679aa59d766aa828fd1953a898f001c218a786bec841cc",
+        "size_in_bytes": 10400
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "f3e9c29e3db36dc305a4be68a8a225f93949852ce2d19b5b0a3c099eee6509c5",
+        "sha256_in_prefix": "f3e9c29e3db36dc305a4be68a8a225f93949852ce2d19b5b0a3c099eee6509c5",
+        "size_in_bytes": 1056
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "7edff72a15d597f9bcbd8048774838ea2a544de49195ce06d29dd42565c182eb",
+        "sha256_in_prefix": "7edff72a15d597f9bcbd8048774838ea2a544de49195ce06d29dd42565c182eb",
+        "size_in_bytes": 2885
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8020aae0d4425d74103df6ea28efae170dbb87e1805a24d4a67325f8def272ef",
+        "sha256_in_prefix": "8020aae0d4425d74103df6ea28efae170dbb87e1805a24d4a67325f8def272ef",
+        "size_in_bytes": 1113
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c075cf8dc1753dbbeb6a5ad90197df68145f316f2effb77e2feab7b25212ec6a",
+        "sha256_in_prefix": "c075cf8dc1753dbbeb6a5ad90197df68145f316f2effb77e2feab7b25212ec6a",
+        "size_in_bytes": 111
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e3b200918268254690ab76d24446d2676e3c17f5ba2c630f5b02086d1da468c1",
+        "sha256_in_prefix": "e3b200918268254690ab76d24446d2676e3c17f5ba2c630f5b02086d1da468c1",
+        "size_in_bytes": 96
+      },
+      {
+        "_path": "lib/python3.10/site-packages/brotlipy-0.7.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "82c4b9e07ae13b766f785c5e32b2a8ffba87e129b84db43b8c62d5044a89e0d2",
+        "sha256_in_prefix": "82c4b9e07ae13b766f785c5e32b2a8ffba87e129b84db43b8c62d5044a89e0d2",
+        "size_in_bytes": 15
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "98b997f5025be0b2cee1a1997182d84cdd05161a4a58c38a064a6a0e169684c0",
+  "size": 376307,
+  "subdir": "osx-64",
+  "timestamp": 1648854368462,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/brotlipy-0.7.0-py310h1961e1f_1004.tar.bz2",
+  "version": "0.7.0"
+}

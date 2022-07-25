@@ -1,0 +1,165 @@
+{
+  "build": "pyhd3deb0d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "coverage",
+    "python",
+    "requests >=2.7.9",
+    "setuptools"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/codecov-2.1.11-pyhd3deb0d_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/codecov-2.1.11.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/codecov-2.1.11.dist-info/LICENSE",
+    "lib/python3.10/site-packages/codecov-2.1.11.dist-info/METADATA",
+    "lib/python3.10/site-packages/codecov-2.1.11.dist-info/RECORD",
+    "lib/python3.10/site-packages/codecov-2.1.11.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/codecov-2.1.11.dist-info/WHEEL",
+    "lib/python3.10/site-packages/codecov-2.1.11.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/codecov-2.1.11.dist-info/entry_points.txt",
+    "lib/python3.10/site-packages/codecov-2.1.11.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/codecov-2.1.11.dist-info/zip-safe",
+    "lib/python3.10/site-packages/codecov/__init__.py",
+    "lib/python3.10/site-packages/codecov/__main__.py",
+    "lib/python3.10/site-packages/codecov/__version__.py",
+    "lib/python3.10/site-packages/codecov/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/codecov/__pycache__/__main__.cpython-310.pyc",
+    "lib/python3.10/site-packages/codecov/__pycache__/__version__.cpython-310.pyc",
+    "bin/codecov"
+  ],
+  "fn": "codecov-2.1.11-pyhd3deb0d_0.tar.bz2",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/codecov-2.1.11-pyhd3deb0d_0",
+    "type": 1
+  },
+  "md5": "9c661c2c14b4667827218402e6624ad5",
+  "name": "codecov",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/codecov-2.1.11-pyhd3deb0d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/codecov-2.1.11.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/codecov-2.1.11.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b743d7b456d471fdc9c2cc991ea496e886a2604e95195f150907df01577a8558",
+        "sha256_in_prefix": "b743d7b456d471fdc9c2cc991ea496e886a2604e95195f150907df01577a8558",
+        "size_in_bytes": 11337
+      },
+      {
+        "_path": "site-packages/codecov-2.1.11.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2b0196d7da7806b3a69b6392f3bd68b3c0ad0009a3c58eb694d6948bf77e26db",
+        "sha256_in_prefix": "2b0196d7da7806b3a69b6392f3bd68b3c0ad0009a3c58eb694d6948bf77e26db",
+        "size_in_bytes": 1249
+      },
+      {
+        "_path": "site-packages/codecov-2.1.11.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "2c670edbffb7c44a797bae84c2e8c290dca9ed30633ee75d547e98bce05ecc72",
+        "sha256_in_prefix": "2c670edbffb7c44a797bae84c2e8c290dca9ed30633ee75d547e98bce05ecc72",
+        "size_in_bytes": 1310
+      },
+      {
+        "_path": "site-packages/codecov-2.1.11.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/codecov-2.1.11.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "sha256_in_prefix": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/codecov-2.1.11.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d20f66b9df5588140b8422132494837a3e0a42dd9334214d6147b0372a84a8cf",
+        "sha256_in_prefix": "d20f66b9df5588140b8422132494837a3e0a42dd9334214d6147b0372a84a8cf",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "site-packages/codecov-2.1.11.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "9f45ddb7b2e39b9637caa27a366548ccb1d70c076de9dadd73698c364ddba6f4",
+        "sha256_in_prefix": "9f45ddb7b2e39b9637caa27a366548ccb1d70c076de9dadd73698c364ddba6f4",
+        "size_in_bytes": 42
+      },
+      {
+        "_path": "site-packages/codecov-2.1.11.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "65aa995feb6683e9f54cdce6b6c999f374c55c5e51d0660359785788635fd228",
+        "sha256_in_prefix": "65aa995feb6683e9f54cdce6b6c999f374c55c5e51d0660359785788635fd228",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/codecov-2.1.11.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/codecov/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b3541ac098fa57ff83d1c49b13189a9273b36166082fd9534c55ed13f70063ff",
+        "sha256_in_prefix": "b3541ac098fa57ff83d1c49b13189a9273b36166082fd9534c55ed13f70063ff",
+        "size_in_bytes": 40815
+      },
+      {
+        "_path": "site-packages/codecov/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "9040eb821e811b24e872f440a691ad43af13ff6724f0b055233c43ef865137b0",
+        "sha256_in_prefix": "9040eb821e811b24e872f440a691ad43af13ff6724f0b055233c43ef865137b0",
+        "size_in_bytes": 63
+      },
+      {
+        "_path": "site-packages/codecov/__version__.py",
+        "path_type": "hardlink",
+        "sha256": "6669b13d29cc54bd6ca1426b7292e53948f9eb51b31860317e9c849dd2ebe46c",
+        "sha256_in_prefix": "6669b13d29cc54bd6ca1426b7292e53948f9eb51b31860317e9c849dd2ebe46c",
+        "size_in_bytes": 307
+      },
+      {
+        "_path": "lib/python3.10/site-packages/codecov/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/codecov/__pycache__/__main__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/codecov/__pycache__/__version__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/codecov",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "codecov",
+  "sha256": "e333cf5e9de39ec9992f8a5b8ef262fbf1a801378d5687dc3a17b7e2d5f1af2e",
+  "size": 20040,
+  "subdir": "noarch",
+  "timestamp": 1608223601658,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/codecov-2.1.11-pyhd3deb0d_0.tar.bz2",
+  "version": "2.1.11"
+}
