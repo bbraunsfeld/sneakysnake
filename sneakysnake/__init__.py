@@ -1,7 +1,6 @@
 """Little snake like game for fun and learning pygame"""
 
 # Add imports here
-from .game_loop import *
 
 # Handle versioneer
 from ._version import get_versions
