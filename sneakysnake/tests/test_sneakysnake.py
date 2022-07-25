@@ -4,7 +4,6 @@ Unit and regression test for the sneakysnake package.
 
 # Import package, test suite, and other packages as needed
 import sys
-
 import pytest
 
 import sneakysnake
@@ -21,4 +20,4 @@ def test_button_hover():
 
 def test_button_invis():
     """test if class Button has method invisible"""
-    assert hasattr(Button, 'invisible')
+    assert hasattr(Button, 'invisible') == True
