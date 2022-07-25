@@ -7,7 +7,7 @@ import sys
 import pytest
 
 import sneakysnake
-from sneakysnake.game_loop import Button
+from sneakysnake import game_loop
 
 
 def test_sneakysnake_imported():
@@ -16,8 +16,8 @@ def test_sneakysnake_imported():
 
 def test_button_hover():
     """tests if class Buttom has a method hover"""
-    assert hasattr(Button, 'hover') == True
+    assert hasattr(game_loop.Button, 'hover') == True
 
 def test_button_invis():
     """test if class Button has method invisible"""
-    assert hasattr(Button, 'invisible') == True
+    assert hasattr(game_loop.Button, 'invisible') == True
