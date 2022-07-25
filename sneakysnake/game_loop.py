@@ -158,9 +158,6 @@ def buttons_def2():
     b4 = Button(((frame_size_x/4.5),350), "Very Hard", 10,"times new roman", (red,black),
         command=very_hard)
 
-
-
-
 def text_objects(text, font):
     textSurface = font.render(text, True, red)
     return textSurface, textSurface.get_rect()
