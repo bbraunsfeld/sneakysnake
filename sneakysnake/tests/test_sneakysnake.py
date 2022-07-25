@@ -18,3 +18,7 @@ def test_sneakysnake_imported():
 def test_button_hover():
     """tests if class Buttom has a method hover"""
     assert hasattr(Button, 'hover') == True
+
+def test_button_invis():
+    """test if class Button has method invisible"""
+    assert hasattr(Button, 'invisible')
